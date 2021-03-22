@@ -1,0 +1,16 @@
+{
+  "name": "weather_app",
+  "version": "1.0.0",
+  "description": "Simple Weather Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayush Jain",
+  "license": "ISC",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "http": "0.0.1-security",
+    "requests": "^0.3.0"
+  }
+}
